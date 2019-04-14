@@ -1,2 +1,2 @@
 # files-upload-server
-A sample files hosting server
+A sample files uploading server
